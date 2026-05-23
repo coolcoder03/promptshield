@@ -135,7 +135,7 @@ curl http://localhost:8000/logs
 8. Show that PromptShield still returns a useful prompt using local fallback.
 9. Open `http://localhost:8000/logs` to show resilience logs.
 
-## Hackathon positioning
+##  Buold for DEV AI/ML Hackathon 
 
 **PromptShield: A resilient prompt copilot that improves user input and survives LLM/tool failures without breaking the user experience.**
 
